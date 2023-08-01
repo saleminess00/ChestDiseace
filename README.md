@@ -1,7 +1,5 @@
 # ChestDiseace
 X-ray Image Classification: Classify chest X-rays into normal, viral pneumonia, bacterial pneumonia, and COVID-19. #DeepLearning #MedicalImaging
-Let's first examine the Jupyter notebook content in order to understand the project and provide an appropriate README section.
-
 
 # Chest Disease Diagnosis Using ResNet and X-Ray Images
 
